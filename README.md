@@ -4,7 +4,8 @@
 
 
 
-### 💬 About Me
+
+ 💬 About Me
 I'm Thisandu Ranadheera, a passionate university student exploring the world of programming.  
 I love building web projects and learning through hands-on experience.
 
@@ -12,9 +13,10 @@ I love building web projects and learning through hands-on experience.
 - 🧠 Strengthening my logic through small projects and problem-solving
 - 🚀 Keen to dive into **React.js** and backend technologies next
 
----
 
-### 🧰 Languages & Tools
+
+
+ 🧰 Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,git,github,vscode" />
 </p>
