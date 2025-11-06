@@ -1,6 +1,6 @@
 # Hi 👋, I'm Thisandu Ranadheera
 
-🎓 **University Student | Computer Science Undergraduate | Studying at University of Westminster
+🎓University Student | Computer Science Undergraduate | Studying at University of Westminster
 
 
 
