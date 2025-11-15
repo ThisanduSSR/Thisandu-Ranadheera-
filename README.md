@@ -1,51 +1,77 @@
-# Hi 👋, I'm Thisandu Ranadheera
+<!-- ------------------ HEADER ------------------ -->
 
-🎓University Student | Computer Science Undergraduate | Studying at University of Westminster
+<h1 align="center">👋 Hey, I'm <strong>Thisandu Ranadheera</strong></h1>
+<h3 align="center">Computer Science Student | Java • Python • Web Dev</h3>
 
-
-
-
- 💬 About Me
-I'm Thisandu Ranadheera, a passionate university student exploring the world of programming.  
-I love building web projects and learning through hands-on experience.
-
-- 🌱 Currently focused on **Python, Java, and Web Development**
-- 🧠 Strengthening my logic through small projects and problem-solving
-- 🚀 Keen to dive into **React.js** and backend technologies next
-
-
-
-
- 🧰 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,git,github,vscode" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00E1FF&center=true&vCenter=true&lines=Software+Developer;Clean+Code+Enthusiast;Full+Stack+Learner;Always+Improving+%F0%9F%8C%B1" />
 </p>
 
 ---
 
-### 📂 Featured Projects
+## 🚀 About Me
 
-| Project | Description |
-|----------|-------------|
-| [Portfolio Website](#) | A personal portfolio site built using HTML, CSS, and JS. |
-| [Simple To-Do List](#) | A basic to-do list web app to manage daily tasks. |
-| [Java Console Game](#) | A mini text-based game built using Java fundamentals. |
-
----
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+- 🎓 **Computer Science Student (IIT)**
+- 💻 Love working with **Java | Python | HTML/CSS | SQL | OOP**
+- 🌱 Currently learning **React, Spring Boot, Machine Learning**
+- 🧠 Passionate about **writing clean code & solving problems**
+- 🌿 Always growing with every commit
 
 ---
 
-### 📫 Reach Me At
-📧 thisanduranadheera67@gmail.com(mailto:thisanduranadheera67@gmail.com)  
-🔗 https://www.facebook.com/share/1KNNEr38Ka/(#) | https://www.instagram.com/thisandu.sr?igsh=dnhsajdudjA5cDk5(#)
+## 🛠 Tech Stack
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
-
+### 💻 Languages  
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css" />
+</p>
+
+### 🌐 Web & App Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,figma" />
+</p>
+
+### 🧰 Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisanduSSR&show_icons=true&theme=tokyonight&hide_border=false" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThisanduSSR&theme=tokyonight&hide_border=false" height="170"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 🔧 Java Projects  
+- **School Application** – OOP-based Java project  
+- **Geometric Object** – Java inheritance & polymorphism  
+
+### 🔹 💻 Web Projects  
+- **Zero Hunger SL Website** – HTML/CSS website  
+- **Personal Portfolio (Coming Soon)**  
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/your-linkedin/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, feel free to star a repo!
 </p>
