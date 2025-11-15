@@ -1,6 +1,6 @@
 <!-- ------------------ HEADER ------------------ -->
 
-<h1 align="center">👋 Hey, I'm <strong>Thisandu Ranadheera</strong></h1>
+<h1 align="center"> Hey, I'm <strong>Thisandu Ranadheera</strong></h1>
 <h3 align="center">Computer Science Student | Java • Python • Web Dev</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 **Computer Science Student (IIT)**
 - 💻 Love working with **Java | Python | HTML/CSS | SQL | OOP**
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### 💻 Languages  
 <p align="left">
@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThisanduSSR&show_icons=true&theme=tokyonight&hide_border=false" height="170"/>
@@ -47,7 +47,7 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### 🔹 🔧 Java Projects  
 - **School Application** – OOP-based Java project  
@@ -59,7 +59,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p>
 <a href="https://www.instagram.com/thisandu.sr?igsh=dnhsajdudjA5cDk5" target="_blank">
