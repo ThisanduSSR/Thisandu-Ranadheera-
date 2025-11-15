@@ -62,13 +62,19 @@
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.instagram.com/thisandu.sr?igsh=dnhsajdudjA5cDk5" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thisanduranadheera" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="mailto:your-email@gmail.com">
+
+<a href="mailto:thisandu.20240145@iit.ac.lk">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
+
 
 ---
 
